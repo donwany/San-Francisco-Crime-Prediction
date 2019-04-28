@@ -1,0 +1,101 @@
+﻿USUBJID,RACE,SEX,Age,Ethnic,AGegr1,Country ,Trt01p,Trt01pn,Trt01a,Trt01an,Pltcnt,BORRESP,NEREASN,ITTFL
+LRN-12-6001,White,M,27.000,Hispanic,<65,USA,Drug A,1,Drug A,1,4.17,PR,,Y
+LRN-12-6003,Black,M,31.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,PR,,Y
+LRN-12-6005,American Indian or Alaska Native,F,37.000,Non-Hispanic,<65,USA,Drug A,1,Drug A,1,3.33,CR,,Y
+LRN-12-6007,Asian,M,44.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6009,Native Hawaiian or Pacific Islander,M,43.000,Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,PR,,Y
+LRN-12-6011,Multiracial ,F,62.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,3.33,SD,,Y
+LRN-12-6013,Other,M,64.000,Non-Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,PD,,Y
+LRN-12-6015,White,M,85.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,2.50,PR,,Y
+LRN-12-6017,Black,F,28.000,Hispanic,<65,USA,Drug A,1,Drug A,1,3.33,PD,,Y
+LRN-12-6019,American Indian or Alaska Native,M,36.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,SD,,Y
+LRN-12-6021,Asian,M,82.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,2.50,NE,Death Before Measurement,Y
+LRN-12-6023,Native Hawaiian or Pacific Islander,F,33.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6025,Multiracial ,M,19.000,Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,PD,,Y
+LRN-12-6027,Other,M,30.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,CR,,Y
+LRN-12-6029,White,F,81.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,3.33,NE,Death Before Measurement,Y
+LRN-12-6031,Black,M,29.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,2.50,PR,,Y
+LRN-12-6033,American Indian or Alaska Native,M,82.000,Hispanic,>=65,USA,Drug A,1,Drug A,1,4.17,PD,,Y
+LRN-12-6035,Asian,F,79.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,4.17,PD,,Y
+LRN-12-6037,Native Hawaiian or Pacific Islander,M,74.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,3.33,NE,Death Before Measurement,Y
+LRN-12-6039,Multiracial ,M,75.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,2.50,PR,,Y
+LRN-12-6041,Other,F,52.000,Hispanic,<65,USA,Drug A,1,Drug A,1,4.17,PR,,Y
+LRN-12-6043,White,M,75.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,3.33,PR,,Y
+LRN-12-6045,Black,M,37.000,Non-Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,PR,,Y
+LRN-12-6047,American Indian or Alaska Native,F,63.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,3.33,CR,,Y
+LRN-12-6049,Asian,M,51.000,Hispanic,<65,USA,Drug A,1,Drug A,1,4.17,CR,,Y
+LRN-12-6051,Native Hawaiian or Pacific Islander,M,77.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,3.33,CR,,Y
+LRN-12-6053,Multiracial ,F,25.000,Non-Hispanic,<65,USA,Drug A,1,Drug A,1,4.17,PR,,Y
+LRN-12-6055,Other,M,24.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6057,White,M,41.000,Hispanic,<65,USA,Drug A,1,Drug A,1,3.33,PD,,Y
+LRN-12-6059,Black,F,73.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,2.50,SD,,Y
+LRN-12-6061,American Indian or Alaska Native,M,65.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,3.33,PR,,Y
+LRN-12-6063,Asian,M,82.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,3.33,CR,,Y
+LRN-12-6065,Native Hawaiian or Pacific Islander,F,44.000,Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,CR,,Y
+LRN-12-6067,Multiracial ,M,72.000,Non-Hispanic,>=65,USA,Placebo,2,Placebo,2,2.50,PR,,Y
+LRN-12-6069,Other,M,84.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,2.50,PD,,Y
+LRN-12-6071,White,F,36.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6073,Black,M,50.000,Hispanic,<65,USA,Drug A,1,Drug A,1,2.50,PR,,Y
+LRN-12-6075,American Indian or Alaska Native,M,50.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6077,Asian,F,20.000,Non-Hispanic,<65,USA,Drug A,1,Drug A,1,4.17,NE,Death Before Measurement,Y
+LRN-12-6079,Native Hawaiian or Pacific Islander,M,61.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,3.33,NE,Death Before Measurement,Y
+LRN-12-6081,Multiracial ,M,44.000,Hispanic,<65,USA,Drug A,1,Drug A,1,3.33,PR,,Y
+LRN-12-6083,Other,F,26.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,PR,,Y
+LRN-12-6085,White,M,65.000,Non-Hispanic,>=65,USA,Drug A,1,Drug A,1,3.33,PR,,Y
+LRN-12-6087,Black,M,55.000,Non-Hispanic,<65,USA,Placebo,2,Placebo,2,4.17,PD,,Y
+LRN-12-6089,American Indian or Alaska Native,F,74.000,Hispanic,>=65,USA,Drug A,1,Drug A,1,3.33,PR,,Y
+LRN-12-6091,Asian,M,63.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6093,Native Hawaiian or Pacific Islander,M,77.000,Non-Hispanic,>=65,Canada,Drug A,1,Drug A,1,3.33,SD,,Y
+LRN-12-6095,Multiracial ,F,76.000,Non-Hispanic,>=65,Canada,Placebo,2,Placebo,2,2.50,PD,,Y
+LRN-12-6097,Other,M,79.000,Hispanic,>=65,Canada,Drug A,1,Drug A,1,2.50,NE,Death Before Measurement,Y
+LRN-12-6099,White,M,33.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,CR,,Y
+LRN-12-6101,Black,F,66.000,Non-Hispanic,>=65,Canada,Drug A,1,Drug A,1,3.33,SD,,Y
+LRN-12-6103,American Indian or Alaska Native,M,35.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,2.50,PR,,Y
+LRN-12-6105,Asian,M,43.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,3.33,PR,,Y
+LRN-12-6107,Native Hawaiian or Pacific Islander,F,85.000,Non-Hispanic,>=65,Canada,Placebo,1,Placebo,1,3.33,SD,,Y
+LRN-12-6109,Multiracial ,M,77.000,Non-Hispanic,>=65,Canada,Drug A,2,Drug A,2,2.50,PD,,Y
+LRN-12-6111,Other,M,18.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,4.17,PD,,Y
+LRN-12-6113,White,F,36.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,2.50,NE,Death Before Measurement,Y
+LRN-12-6115,Black,M,40.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,SD,,Y
+LRN-12-6117,American Indian or Alaska Native,M,76.000,Non-Hispanic,>=65,Canada,Drug A,2,Drug A,2,2.50,NE,Death Before Measurement,Y
+LRN-12-6119,Asian,F,65.000,Non-Hispanic,>=65,Canada,Placebo,1,Placebo,1,3.33,SD,,Y
+LRN-12-6121,Native Hawaiian or Pacific Islander,M,29.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,PD,,Y
+LRN-12-6123,Multiracial ,M,64.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,2.50,NE,Death Before Measurement,Y
+LRN-12-6125,Other,F,35.000,Non-Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,PR,,Y
+LRN-12-6127,White,M,62.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,4.17,PR,,Y
+LRN-12-6129,Black,M,31.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6131,American Indian or Alaska Native,F,19.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,NE,Death Before Measurement,Y
+LRN-12-6133,Asian,M,26.000,Non-Hispanic,<65,Canada,Drug A,2,Drug A,2,3.33,PR,,Y
+LRN-12-6135,Native Hawaiian or Pacific Islander,M,30.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,SD,,Y
+LRN-12-6137,Multiracial ,F,23.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6139,Other,M,34.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,4.17,PD,,Y
+LRN-12-6141,White,M,51.000,Non-Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,CR,,Y
+LRN-12-6143,Black,F,28.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,NE,Death Before Measurement,Y
+LRN-12-6145,American Indian or Alaska Native,M,46.000,Hispanic,<65,Canada,Drug A,2,Drug A,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6147,Asian,M,40.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,PR,,Y
+LRN-12-6149,Native Hawaiian or Pacific Islander,F,54.000,Non-Hispanic,<65,Canada,Drug A,2,Drug A,2,3.33,PR,,Y
+LRN-12-6151,Multiracial ,M,57.000,Non-Hispanic,<65,Canada,Placebo,1,Placebo,1,3.33,NE,Death Before Measurement,Y
+LRN-12-6153,Other,M,55.000,Hispanic,<65,Canada,Drug A,1,Drug A,1,3.33,NE,Droped Study,Y
+LRN-12-6155,White,F,73.000,Non-Hispanic,>=65,Canada,Placebo,2,Placebo,2,4.17,NE,Withdrown Consent,Y
+LRN-12-6157,Black,M,45.000,Non-Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,NE,Withdrown Consent,Y
+LRN-12-6159,American Indian or Alaska Native,M,23.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,PR,,Y
+LRN-12-6161,Asian,F,49.000,Hispanic,<65,Canada,Drug A,1,Drug A,1,2.50,PR,,Y
+LRN-12-6163,Native Hawaiian or Pacific Islander,M,31.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,NE,Death Before Measurement,Y
+LRN-12-6165,Multiracial ,M,68.000,Non-Hispanic,>=65,Canada,Drug A,1,Drug A,1,4.17,CR,,Y
+LRN-12-6167,Other,F,38.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,PD,,Y
+LRN-12-6169,White,M,42.000,Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,PD,,Y
+LRN-12-6171,Black,M,31.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,2.50,SD,,Y
+LRN-12-6173,American Indian or Alaska Native,F,53.000,Non-Hispanic,<65,Canada,Drug A,1,Drug A,1,2.50,SD,,Y
+LRN-12-6175,Asian,M,39.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,PD,,Y
+LRN-12-6177,Native Hawaiian or Pacific Islander,M,65.000,Hispanic,>=65,Canada,Drug A,1,Drug A,1,3.33,CR,,Y
+LRN-12-6179,Multiracial ,F,73.000,Non-Hispanic,>=65,Canada,Placebo,2,Placebo,2,4.17,CR,,Y
+LRN-12-6181,Other,M,49.000,Non-Hispanic,<65,Canada,Drug A,1,Drug A,1,2.50,PR,,Y
+LRN-12-6183,White,M,26.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,2.50,SD,,Y
+LRN-12-6185,Black,F,30.000,Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,SD,,Y
+LRN-12-6187,American Indian or Alaska Native,M,68.000,Non-Hispanic,>=65,Canada,Placebo,2,Placebo,2,2.50,NE,Droped Study,Y
+LRN-12-6189,Asian,M,51.000,Non-Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,CR,,Y
+LRN-12-6191,Native Hawaiian or Pacific Islander,F,62.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,SD,,Y
+LRN-12-6193,Multiracial ,M,44.000,Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,CR,,Y
+LRN-12-6195,Other,M,34.000,Non-Hispanic,<65,Canada,Placebo,2,Placebo,2,4.17,NE,Withdrown Consent,Y
+LRN-12-6197,White,F,48.000,Non-Hispanic,<65,Canada,Drug A,1,Drug A,1,4.17,NE,Death Before Measurement,Y
+LRN-12-6199,Black,M,74.000,Non-Hispanic,>=65,Canada,Placebo,2,Placebo,2,3.33,CR,,Y
